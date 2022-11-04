@@ -1,0 +1,25 @@
+.container{
+    background-color: palevioletred;
+    width: 900px;
+  }
+  .nav{
+      background-color: purple;
+      padding: 1rem;
+  }
+  
+  nav{
+      background-color: purple;
+  }
+  
+  .nav-link{
+    color: antiquewhite;
+    font-weight: 700;
+    text-decoration: none;
+  }
+  main{
+      color: blanchedalmond;
+  }
+  footer p{
+      color: blanchedalmond;
+      text-align: center;
+  }
